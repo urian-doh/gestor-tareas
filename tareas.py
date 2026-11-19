@@ -7,3 +7,6 @@ def agregar_tarea(titulo):
 
 def listar_tareas():
     return tareas
+
+def eliminar_tareas(indice):
+    tareas.remove(indice)

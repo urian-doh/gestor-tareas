@@ -1,4 +1,6 @@
-from tareas import agregar_tarea, listar_tareas
+from tareas import agregar_tarea, listar_tareas, eliminar_tareas
 
 agregar_tarea("Configurar GIT")
 print(listar_tareas())
+
+eliminar_tareas()
