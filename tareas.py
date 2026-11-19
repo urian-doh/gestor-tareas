@@ -9,4 +9,4 @@ def listar_tareas():
     return tareas
 
 def eliminar_tareas(indice):
-    tareas.remove(indice)
+    tareas.pop(indice)
