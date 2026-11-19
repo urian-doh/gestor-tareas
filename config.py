@@ -1,0 +1,1 @@
+MAX_TAREAS = 50
