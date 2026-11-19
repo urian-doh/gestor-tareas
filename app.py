@@ -4,4 +4,4 @@ agregar_tarea("Configurar GIT")
 print(listar_tareas())
 
 eliminar_tareas(0)
-print(listar_tareas)
+print(listar_tareas())
